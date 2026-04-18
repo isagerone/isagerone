@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Analysis and Development of Systems - FIAP<br>👩‍💻 Student focused on web development and test automation<br>✨ QA intern<br>📝 Currently learning robot framework for test automation</p>
+<p align="left">🎓 Analysis and Development of Systems - FIAP<br>👩‍💻 Student focused on web development and test automation<br>✨ QA Junior<br>📝 Currently learning robot framework for test automation</p>
 
 ###
 
